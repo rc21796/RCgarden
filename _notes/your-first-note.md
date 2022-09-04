@@ -5,7 +5,7 @@ title: Your first seed
 ### Welcome!
 This is my Jekyll website hosted at Netlify
 
-![[Pasted image 20220904134929.png]]
+![[Pasted-image-20220904134929.png]]
 
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
