@@ -13,6 +13,8 @@ This is my Jekyll website hosted at Netlify
 
 0 ---------- 0
 
+Faux Fininsh Barrels [[Faux Finish Plastic Barrels]]
+
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
 ### Link syntax
@@ -26,7 +28,7 @@ To link to another note, you can use multiple syntaxes. The following four use t
 
 You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
 
-Non-latin languages are supported too: [[안녕하세요]].
+Non-latin languages are supported too: 
 
 Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your-first-note]], or even [[yOuR-FiRsT Note]].
 
