@@ -4,9 +4,14 @@ title: Your first seed
 
 ### Welcome!
 This is my Jekyll website hosted at Netlify
-=====
+
+0 ---------- 0
 
 ![[Pasted-image-20220904134929.png]]
+
+0 ---------- 0
+
+
 
 =====
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
