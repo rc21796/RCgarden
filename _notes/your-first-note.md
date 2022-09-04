@@ -7,7 +7,9 @@ This is my Jekyll website hosted at Netlify
 
 0 ---------- 0000
 
-![[Pasted-image-20220904134929.png]]
+<img src="/assets/Pasted-image-20220904134929.png"/>
+
+
 
 0 ---------- 0
 
