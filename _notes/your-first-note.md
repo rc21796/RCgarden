@@ -5,15 +5,12 @@ title: Your first seed
 ### Welcome!
 This is my Jekyll website hosted at Netlify
 
-0 ---------- 0
+0 ---------- 0000
 
 ![[Pasted-image-20220904134929.png]]
 
 0 ---------- 0
 
-
-
-=====
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
 ### Link syntax
@@ -107,7 +104,7 @@ And of course, images look great:
 
 You can also ==highlight some content== by wrapping it with `==`.
 
-Non-latin languages are supported too: ==你好==, ==안녕하세요==, ==こんにちは==.
+Non-latin languages are supported too: 
 
 ### Code syntax highlighting
 
