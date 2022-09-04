@@ -3,6 +3,7 @@ title: Your first seed
 ---
 
 ### Welcome!
+This is my Jekyll website hosted at Netlify
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
@@ -49,6 +50,9 @@ You may embed media files within a note using HTML5 media tags. Here's an exampl
   <source src="/assets/jazzyfrenchy.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
+
+
 
 ### Site configuration
 
