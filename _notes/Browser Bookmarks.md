@@ -67,11 +67,17 @@ Go to [[Dashboard]]
 ## Gardening
 
 [Expedition Homestead - YouTube](https://www.youtube.com/c/ExpeditionHomestead/videos)
+
 [Techplant - YouTube](https://www.youtube.com/c/TechplantChannel/videos)
+
 [MIGRO - YouTube](https://www.youtube.com/c/MIGROLIGHT/videos)
+
 [HowToHydroponics - YouTube](https://www.youtube.com/c/HowToHydroponics/videos)
+
 [Epic Gardening - YouTube](https://www.youtube.com/c/EpicGardening/videos)
+
 [MIgardener - YouTube](https://www.youtube.com/c/MIgardener/videos)
+
 [Welcome to Freeplants.com!](https://freeplants.com/)
 
 
