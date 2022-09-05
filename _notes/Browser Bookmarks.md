@@ -124,11 +124,17 @@ Go to [[Dashboard]]
 
 
 [DØVYDAS - YouTube](https://www.youtube.com/c/DovydasMusic/videos)
+
 [Goshen Prepping](https://www.youtube.com/c/GoshenPrepping/videos)
+
 [City Prepping - YouTube](https://www.youtube.com/c/CityPrepping/videos)
+
 [Poplar Preparedness](https://www.youtube.com/c/PoplarPreparedness/videos)
+
 [Patrick Humphrey](https://www.youtube.com/c/PatrickHumphreyFarmer/videos)
+
 [Patrick Humphrey 2](https://www.youtube.com/channel/UCD74ZJDJuKM_3j9Q3w1zfmg/videos)
+
 [Valuetainment - YouTube](https://www.youtube.com/c/VALUETAINMENT/videos)
 [The Rubin Report](https://www.youtube.com/c/RubinReport/videos)
 [The Economist - YouTube](https://www.youtube.com/c/TheEconomist/videos)
