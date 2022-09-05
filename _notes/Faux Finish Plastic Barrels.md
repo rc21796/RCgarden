@@ -8,7 +8,7 @@ https://youtu.be/kupsDrfTMlw
 ```
 
 ```vid
-https://www.youtube.com/watch?v=w9ePsu7b_s0&t=189s
+https://www.youtube.com/watch?v=w9ePsu7b_s0
 ```
 
 ```vid
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=M1pVcoYrrWA&t=13s
 ```
 
 ```vid
-https://www.youtube.com/watch?v=lm4J9O-uE6g&t=29s
+https://www.youtube.com/watch?v=lm4J9O-uE6g
 ```
 
 sw2557@@sherwin.com www.sherwinwilliams.com
