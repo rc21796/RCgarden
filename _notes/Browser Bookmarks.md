@@ -84,7 +84,7 @@ Go to [[Dashboard]]
 
 
 ### Mike's Backyard
-* [Freeplants.com | Homesteading Forum](https://www.homesteadingtoday.com/threads/freeplants-com.63157/)
+* [Freeplants.com - Homesteading Forum](https://www.homesteadingtoday.com/threads/freeplants-com.63157/)
 * [Mike's Backyard Nursery - The Most Fun You Can Have With Your Bibs On!](https://mikesbackyardnursery.com/)
 * [Directory - Mike's Backyard Nursery](https://mikesbackyardnursery.com/directory/)
 * [Backyard Nursery Tools of the Trade, Things to turn you into a successful grower. - Mike's Backyard Nursery](https://mikesbackyardnursery.com/2015/10/backyard-nursery-tools-of-the-trade-things-to-turn-you-into-a-successful-grower/)
